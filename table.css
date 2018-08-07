@@ -1,0 +1,17 @@
+body {
+font-family: Arial, Helvetica, sans-serif;
+}
+h1, h2 {
+color: black;
+margin-left: 20px;
+}
+th, td {
+border-bottom: 1px solid #000000;
+width:80px
+}
+
+td {
+    text-align: center;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
